@@ -1,0 +1,15 @@
+183.82.120.245 - - [21/May/2018:12:33:27 +0000] "GET /nexus HTTP/1.1" 302 0 5
+183.82.120.245 - - [21/May/2018:12:33:28 +0000] "GET /nexus/ HTTP/1.1" 200 8026 219
+183.82.120.245 - - [21/May/2018:12:33:28 +0000] "GET /nexus/style/201802141518/sonatype-all.css HTTP/1.1" 200 10733 1
+183.82.120.245 - - [21/May/2018:12:33:28 +0000] "GET /nexus/static/ext-3.4.1.1/resources/css/xtheme-gray.css HTTP/1.1" 200 38927 2
+183.82.120.245 - - [21/May/2018:12:33:29 +0000] "GET /nexus/static/ext-3.4.1.1/adapter/ext/ext-base.js HTTP/1.1" 200 30503 2
+183.82.120.245 - - [21/May/2018:12:33:29 +0000] "GET /nexus/js/201802141518/sonatype-lib.js HTTP/1.1" 200 31264 1
+183.82.120.245 - - [21/May/2018:12:33:29 +0000] "GET /nexus/static/ext-3.4.1.1/resources/css/ext-all.css HTTP/1.1" 200 116344 1197
+183.82.120.245 - - [21/May/2018:12:33:31 +0000] "GET /nexus/static/ext-3.4.1.1/ext-all.js HTTP/1.1" 200 719927 2212
+183.82.120.245 - - [21/May/2018:12:33:32 +0000] "GET /nexus/images/header_branding.png HTTP/1.1" 200 21236 3
+183.82.120.245 - - [21/May/2018:12:33:32 +0000] "GET /nexus/static/ext-3.4.1.1/resources/images/default/grid/loading.gif HTTP/1.1" 200 771 1
+183.82.120.245 - - [21/May/2018:12:33:32 +0000] "GET /nexus/static/ext-3.4.1.1/resources/images/gray/panel/white-top-bottom.gif HTTP/1.1" 200 860 1
+183.82.120.245 - - [21/May/2018:12:33:32 +0000] "GET /nexus/static/images/header_bg.gif HTTP/1.1" 200 441 1
+183.82.120.245 - - [21/May/2018:12:33:32 +0000] "GET /nexus/js/201802141518/nx-all.js?nexusVersion=2.14.8-01 HTTP/1.1" 200 5813 3
+183.82.120.245 - - [21/May/2018:12:33:32 +0000] "GET /nexus/favicon.png HTTP/1.1" 200 1179 1
+183.82.120.245 - - [21/May/2018:12:33:41 +0000] "GET /nexus/js/201802141518/sonatype-all.js?nexusVersion=2.14.8-01 HTTP/1.1" 200 469408 8335
